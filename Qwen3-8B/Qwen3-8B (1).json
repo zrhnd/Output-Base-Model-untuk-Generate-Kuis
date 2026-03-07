@@ -1,0 +1,134 @@
+[
+  {
+    "level_kesulitan": "SD Kelas 1 - Matematika",
+    "pertanyaan": "Berapa hasil dari 2 + 3?",
+    "pilihan_jawaban": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "2 + 3 berarti 2 angka ditambah 3 angka, hasilnya 5"
+  },
+  {
+    "level_kesulitan": "SD Kelas 2 - Bahasa Indonesia",
+    "pertanyaan": "Sinonim dari kata 'besar' adalah...",
+    "pilihan_jawaban": {
+      "A": "kecil",
+      "B": "tinggi",
+      "C": "besar",
+      "D": "panjang"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Kata 'besar' dan 'besar' memiliki makna yang sama"
+  },
+  {
+    "level_kesulitan": "SD Kelas 3 - Matematika",
+    "pertanyaan": "Hasil dari 10 - 4 adalah...",
+    "pilihan_jawaban": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "10 dikurangi 4 berarti 10 diambil 4, hasilnya 6"
+  },
+  {
+    "level_kesulitan": "SD Kelas 4 - IPA",
+    "pertanyaan": "Bagian tumbuhan yang berfungsi menyerap air dari tanah adalah...",
+    "pilihan_jawaban": {
+      "A": "daun",
+      "B": "batang",
+      "C": "akar",
+      "D": "bunga"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Akar adalah bagian tumbuhan yang berperan untuk menyerap air dan nutrisi dari tanah"
+  },
+  {
+    "level_kesulitan": "SD Kelas 5 - Matematika",
+    "pertanyaan": "1/2 dari 10 adalah...",
+    "pilihan_jawaban": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "1/2 dari 10 berarti 10 dibagi 2, hasilnya 5"
+  },
+  {
+    "level_kesulitan": "SMP Kelas 7 - IPA",
+    "pertanyaan": "Energi yang dimiliki benda karena geraknya disebut...",
+    "pilihan_jawaban": {
+      "A": "energi kimia",
+      "B": "energi listrik",
+      "C": "energi gerak",
+      "D": "energi panas"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Energi gerak adalah energi yang dimiliki benda karena bergerak"
+  },
+  {
+    "level_kesulitan": "SMP Kelas 8 - Matematika",
+    "pertanyaan": "Nilai x yang memenuhi persamaan 2x + 3 = 7 adalah...",
+    "pilihan_jawaban": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "2x + 3 = 7 → 2x = 4 → x = 2"
+  },
+  {
+    "level_kesulitan": "SMP Kelas 9 - Bahasa Indonesia",
+    "pertanyaan": "Antonim dari kata 'dingin' adalah...",
+    "pilihan_jawaban": {
+      "A": "sejuk",
+      "B": "hangat",
+      "C": "panas",
+      "D": "lembap"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Kata 'dingin' dan 'panas' memiliki makna yang berlawanan"
+  },
+  {
+    "level_kesulitan": "SMA Kelas 10 - Biologi",
+    "pertanyaan": "Bagian sel yang berfungsi sebagai pusat kontrol sel adalah...",
+    "pilihan_jawaban": {
+      "A": "nukleus",
+      "B": "mitokondria",
+      "C": "retikulum endoplasma",
+      "D": "ribosom"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Nukleus adalah pusat kontrol aktivitas sel"
+  },
+  {
+    "level_kesulitan": "SMA Kelas 11 - Matematika",
+    "pertanyaan": "Nilai dari cos 60° adalah...",
+    "pilihan_jawaban": {
+      "A": "0",
+      "B": "0.5",
+      "C": "1",
+      "D": "√3/2"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Nilai cos 60° adalah 1/2 atau 0.5"
+  },
+  {
+    "level_kesulitan": "SMA Kelas 12 - Bahasa Indonesia",
+    "pertanyaan": "Kata 'pemandu wisata' memiliki makna yang sama dengan...",
+    "pilihan_jawaban": {
+      "A": "penjaga taman",
+      "B": "pemandu tur",
+      "C": "peneliti",
+      "D": "pengusaha"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Pemandu wisata berarti orang yang memandu tur atau perjalanan wisata"
+  }
+]
