@@ -1,0 +1,124 @@
+```json
+[
+  {
+    "level_kesulitan": "SD Kelas 1-3",
+    "pertanyaan": "Jumlahkan 2 + 3",
+    "pilihan_jawaban": {
+      "A": "5",
+      "B": "3",
+      "C": "2",
+      "D": "1"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Jawaban yang benar adalah 5 karena 2 + 3 = 5."
+  },
+  {
+    "level_kesulitan": "SD Kelas 1-3",
+    "pertanyaan": "Apa artinya kata 'bersih'?",
+    "pilihan_jawaban": {
+      "A": "Jika tidak ada kotoran",
+      "B": "Jika ada kotoran",
+      "C": "Jika berwarna",
+      "D": "Jika berbau"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Jawaban yang benar adalah A karena kata 'bersih' berarti tidak ada kotoran."
+  },
+  {
+    "level_kesulitan": "SD Kelas 4-6",
+    "pertanyaan": "Apa yang terjadi jika kita memasukkan air ke dalam sebuah tangki yang sudah penuh?",
+    "pilihan_jawaban": {
+      "A": "Tangki akan menjadi lebih kecil",
+      "B": "Tangki akan menjadi lebih besar",
+      "C": "Tangki akan tetap sama",
+      "D": "Tangki akan kosong"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Jawaban yang benar adalah A karena jika kita memasukkan air ke dalam sebuah tangki yang sudah penuh, maka tangki akan menjadi lebih kecil karena air akan menggenangi bagian atas tangki."
+  },
+  {
+    "level_kesulitan": "SD Kelas 4-6",
+    "pertanyaan": "Jumlahkan 5 + 7",
+    "pilihan_jawaban": {
+      "A": "10",
+      "B": "12",
+      "C": "11",
+      "D": "13"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Jawaban yang benar adalah 12 karena 5 + 7 = 12."
+  },
+  {
+    "level_kesulitan": "SMP Kelas 7-9",
+    "pertanyaan": "Apa yang terjadi jika suhu udara naik?",
+    "pilihan_jawaban": {
+      "A": "Udara menjadi lebih dingin",
+      "B": "Udara menjadi lebih panas",
+      "C": "Udara menjadi tetap",
+      "D": "Udara menjadi lebih lembab"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Jawaban yang benar adalah B karena jika suhu udara naik, maka udara akan menjadi lebih panas."
+  },
+  {
+    "level_kesulitan": "SMP Kelas 7-9",
+    "pertanyaan": "Jumlahkan 9 + 3",
+    "pilihan_jawaban": {
+      "A": "12",
+      "B": "10",
+      "C": "8",
+      "D": "6"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Jawaban yang benar adalah 12 karena 9 + 3 = 12."
+  },
+  {
+    "level_kesulitan": "SMP Kelas 7-9",
+    "pertanyaan": "Apa artinya kata 'etika'?",
+    "pilihan_jawaban": {
+      "A": "Perilaku yang baik",
+      "B": "Perilaku yang buruk",
+      "C": "Perilaku yang netral",
+      "D": "Perilaku yang tidak jelas"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Jawaban yang benar adalah A karena kata 'etika' berarti perilaku yang baik."
+  },
+  {
+    "level_kesulitan": "SMA Kelas 10-12",
+    "pertanyaan": "Apa yang terjadi jika kita memasukkan energi ke dalam suatu sistem?",
+    "pilihan_jawaban": {
+      "A": "Energi akan menjadi lebih besar",
+      "B": "Energi akan menjadi lebih kecil",
+      "C": "Energi akan tetap sama",
+      "D": "Energi akan hilang"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Jawaban yang benar adalah A karena jika kita memasukkan energi ke dalam suatu sistem, maka energi akan menjadi lebih besar."
+  },
+  {
+    "level_kesulitan": "SMA Kelas 10-12",
+    "pertanyaan": "Jumlahkan 2 + 5",
+    "pilihan_jawaban": {
+      "A": "7",
+      "B": "9",
+      "C": "10",
+      "D": "11"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Jawaban yang benar adalah 7 karena 2 + 5 = 7."
+  },
+  {
+    "level_kesulitan": "SMA Kelas 10-12",
+    "pertanyaan": "Apa artinya kata 'ekosistem'?",
+    "pilihan_jawaban": {
+      "A": "Sistem yang terdiri dari makhluk hidup dan lingkungan",
+      "B": "Sistem yang terdiri dari makhluk hidup dan lingkungan serta faktor-faktor lainnya",
+      "C": "Sistem yang terdiri dari makhluk hidup dan lingkungan serta proses-proses alam",
+      "D": "Sistem yang terdiri dari makhluk hidup dan lingkungan serta proses-proses manusia"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Jawaban yang benar adalah B karena kata 'ekosistem' berarti sistem yang terdiri dari makhluk hidup dan lingkungan serta faktor-faktor lainnya."
+  }
+]
+```
