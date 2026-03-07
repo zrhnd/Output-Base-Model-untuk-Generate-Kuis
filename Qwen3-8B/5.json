@@ -1,0 +1,122 @@
+[
+  {
+    "level_kesulitan": "SD Kelas 1-3",
+    "pertanyaan": "Hasil dari 2 + 3 adalah...",
+    "pilihan_jawaban": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7"
+    },
+    "jawaban_benar": "D",
+    "pembahasan": "2 + 3 = 5"
+  },
+  {
+    "level_kesulitan": "SD Kelas 1-3",
+    "pertanyaan": "Hari ketiga dalam seminggu adalah...",
+    "pilihan_jawaban": {
+      "A": "Senin",
+      "B": "Selasa",
+      "C": "Rabu",
+      "D": "Kamis"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Urutan hari: Senin, Selasa, Rabu, Kamis, Jumat, Sabtu, Minggu"
+  },
+  {
+    "level_kesulitan": "SD Kelas 4-6",
+    "pertanyaan": "Proses alami yang mengubah air laut menjadi hujan adalah...",
+    "pilihan_jawaban": {
+      "A": "Penguapan",
+      "B": "Kondensasi",
+      "C": "Hujan",
+      "D": "Sublimasi"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Hujan terbentuk melalui siklus air: penguapan, kondensasi, dan presipitasi"
+  },
+  {
+    "level_kesulitan": "SD Kelas 4-6",
+    "pertanyaan": "Hasil dari 1/2 + 1/4 adalah...",
+    "pilihan_jawaban": {
+      "A": "1/4",
+      "B": "3/4",
+      "C": "1/2",
+      "D": "1"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "1/2 = 2/4, 2/4 + 1/4 = 3/4"
+  },
+  {
+    "level_kesulitan": "SMP Kelas 7-9",
+    "pertanyaan": "Fungsi utama jantung adalah...",
+    "pilihan_jawaban": {
+      "A": "Mengedarkan oksigen",
+      "B": "Menghasilkan hormon",
+      "C": "Menyimpan makanan",
+      "D": "Menyerap nutrisi"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Jantung berfungsi memompa darah yang mengandung oksigen ke seluruh tubuh"
+  },
+  {
+    "level_kesulitan": "SMP Kelas 7-9",
+    "pertanyaan": "Solusi dari persamaan 2x + 3 = 7 adalah...",
+    "pilihan_jawaban": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "2x = 7-3 → 2x=4 → x=2"
+  },
+  {
+    "level_kesulitan": "SMP Kelas 7-9",
+    "pertanyaan": "Bagian kalimat yang berisi ide utama disebut...",
+    "pilihan_jawaban": {
+      "A": "Kalimat penjelas",
+      "B": "Kalimat penutup",
+      "C": "Kalimat utama",
+      "D": "Kalimat tanya"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Kalimat utama menyatakan ide pokok paragraf"
+  },
+  {
+    "level_kesulitan": "SMA Kelas 10-12",
+    "pertanyaan": "Komponen utama DNA adalah...",
+    "pilihan_jawaban": {
+      "A": "Gula ribosa",
+      "B": "Asam amino",
+      "C": "Gula deoksiribosa",
+      "D": "Lipid"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "DNA terdiri dari gula deoksiribosa, basa nitrogen, dan fosfat"
+  },
+  {
+    "level_kesulitan": "SMA Kelas 10-12",
+    "pertanyaan": "Akar persamaan kuadrat x² - 5x + 6 = 0 adalah...",
+    "pilihan_jawaban": {
+      "A": "2 dan 3",
+      "B": "1 dan 6",
+      "C": "3 dan 4",
+      "D": "2 dan 4"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "(x-2)(x-3)=0 → x=2 atau x=3"
+  },
+  {
+    "level_kesulitan": "SMA Kelas 10-12",
+    "pertanyaan": "Kalimat utama dalam paragraf biasanya terdapat di...",
+    "pilihan_jawaban": {
+      "A": "Awal paragraf",
+      "B": "Tengah paragraf",
+      "C": "Akhir paragraf",
+      "D": "Semua bagian"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Kalimat utama biasanya ditempatkan di awal paragraf untuk menyatakan ide utama"
+  }
+]
