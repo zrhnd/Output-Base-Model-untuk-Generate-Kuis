@@ -1,0 +1,122 @@
+[
+  {
+    "level_kesulitan": "SD Kelas 1-3",
+    "pertanyaan": "Berapa hasil dari 2 + 3?",
+    "pilihan_jawaban": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "2 + 3 sama dengan 5."
+  },
+  {
+    "level_kesulitan": "SD Kelas 1-3",
+    "pertanyaan": "Kalimat berikut yang merupakan kalimat lengkap adalah...",
+    "pilihan_jawaban": {
+      "A": "Buku itu",
+      "B": "Membaca buku",
+      "C": "Sedang membaca",
+      "D": "Sedang membaca buku"
+    },
+    "jawaban_benar": "D",
+    "pembahasan": "Kalimat lengkap memiliki subjek dan predikat."
+  },
+  {
+    "level_kesulitan": "SD Kelas 4-6",
+    "pertanyaan": "Bagian tumbuhan yang berfungsi menyerap air adalah...",
+    "pilihan_jawaban": {
+      "A": "Akar",
+      "B": "Batang",
+      "C": "Daun",
+      "D": "Bunga"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Akar tumbuhan berfungsi menyerap air dan nutrisi dari tanah."
+  },
+  {
+    "level_kesulitan": "SD Kelas 4-6",
+    "pertanyaan": "Hasil dari 1/2 + 1/4 adalah...",
+    "pilihan_jawaban": {
+      "A": "1/8",
+      "B": "3/4",
+      "C": "1/6",
+      "D": "2/6"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "1/2 = 2/4, maka 2/4 + 1/4 = 3/4."
+  },
+  {
+    "level_kesulitan": "SMP Kelas 7-9",
+    "pertanyaan": "Proses perubahan air menjadi uap adalah...",
+    "pilihan_jawaban": {
+      "A": "Penguapan",
+      "B": "Kondensasi",
+      "C": "Presipitasi",
+      "D": "Infiltrasi"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Penguapan adalah proses perubahan air dari bentuk cair ke gas."
+  },
+  {
+    "level_kesulitan": "SMP Kelas 7-9",
+    "pertanyaan": "Solusi dari persamaan 2x + 3 = 7 adalah...",
+    "pilihan_jawaban": {
+      "A": "x = 1",
+      "B": "x = 2",
+      "C": "x = 3",
+      "D": "x = 4"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "2x = 7 - 3 → 2x = 4 → x = 2."
+  },
+  {
+    "level_kesulitan": "SMP Kelas 7-9",
+    "pertanyaan": "Synonym dari kata 'gembira' adalah...",
+    "pilihan_jawaban": {
+      "A": "Senang",
+      "B": "Sedih",
+      "C": "Marah",
+      "D": "Takut"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Gembira berarti senang atau bahagia."
+  },
+  {
+    "level_kesulitan": "SMA Kelas 10-12",
+    "pertanyaan": "Komponen utama DNA adalah...",
+    "pilihan_jawaban": {
+      "A": "Glukosa",
+      "B": "Asam amino",
+      "C": "Deoksiribosa",
+      "D": "Semua di atas"
+    },
+    "jawaban_benar": "D",
+    "pembahasan": "DNA terdiri dari deoksiribosa, basa nitrogen, dan fosfat."
+  },
+  {
+    "level_kesulitan": "SMA Kelas 10-12",
+    "pertanyaan": "Akar kuadrat dari 25 adalah...",
+    "pilihan_jawaban": {
+      "A": "3",
+      "B": "5",
+      "C": "7",
+      "D": "9"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "5 × 5 = 25, sehingga akar kuadrat 25 adalah 5."
+  },
+  {
+    "level_kesulitan": "SMA Kelas 10-12",
+    "pertanyaan": "Kata yang merupakan metafora adalah...",
+    "pilihan_jawaban": {
+      "A": "Bulan adalah cahaya",
+      "B": "Bulan bercahaya",
+      "C": "Bulan terang",
+      "D": "Bulan bulat"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Metafora membandingkan dua hal tanpa menggunakan kata 'seperti' atau 'seperti'."
+  }
+]
