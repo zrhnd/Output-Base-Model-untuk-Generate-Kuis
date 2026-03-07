@@ -1,0 +1,122 @@
+[
+  {
+    "level_kesulitan": "SD Kelas 1-3",
+    "pertanyaan": "Berapa hasil dari 2 + 3?",
+    "pilihan_jawaban": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "2 + 3 sama dengan 5 karena jumlahkan kedua bilangan tersebut."
+  },
+  {
+    "level_kesulitan": "SD Kelas 1-3",
+    "pertanyaan": "Bagian mana yang merupakan subjek dalam kalimat 'Ani membaca buku'?",
+    "pilihan_jawaban": {
+      "A": "membaca",
+      "B": "buku",
+      "C": "Ani",
+      "D": "kalimat"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Subjek dalam kalimat adalah pelaku yang melakukan tindakan, yaitu 'Ani'."
+  },
+  {
+    "level_kesulitan": "SD Kelas 4-6",
+    "pertanyaan": "Proses siklus air yang menguap dari permukaan laut disebut...",
+    "pilihan_jawaban": {
+      "A": "pengendapan",
+      "B": "penguapan",
+      "C": "pengembunan",
+      "D": "hujan"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Penguapan adalah proses air berubah menjadi uap air dari permukaan laut."
+  },
+  {
+    "level_kesulitan": "SD Kelas 4-6",
+    "pertanyaan": "Hasil dari 1/2 + 1/4 adalah...",
+    "pilihan_jawaban": {
+      "A": "1/6",
+      "B": "1/4",
+      "C": "3/4",
+      "D": "3/8"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Ubah penyebut menjadi sama (4), maka 2/4 + 1/4 = 3/4."
+  },
+  {
+    "level_kesulitan": "SMP Kelas 7-9",
+    "pertanyaan": "Fungsi utama jantung dalam sistem sirkulasi adalah...",
+    "pilihan_jawaban": {
+      "A": "menyimpan oksigen",
+      "B": "mengedarkan darah",
+      "C": "menghasilkan hormon",
+      "D": "menyerap makanan"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Jantung berfungsi mengedarkan darah ke seluruh tubuh melalui sistem pembuluh darah."
+  },
+  {
+    "level_kesulitan": "SMP Kelas 7-9",
+    "pertanyaan": "Selesaikan persamaan 2x + 3 = 7.",
+    "pilihan_jawaban": {
+      "A": "x=1",
+      "B": "x=2",
+      "C": "x=3",
+      "D": "x=4"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Kurangi 3 dari kedua sisi: 2x = 4, lalu bagi 2: x = 2."
+  },
+  {
+    "level_kesulitan": "SMP Kelas 7-9",
+    "pertanyaan": "Kalimat berikut yang memiliki makna tersirat adalah...",
+    "pilihan_jawaban": {
+      "A": "Dia sedang makan nasi",
+      "B": "Dia pergi ke sekolah pukul 7",
+      "C": "Dia tidak senang dengan ujian",
+      "D": "Dia membeli buku baru"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Kalimat C menyiratkan perasaan negatif tanpa menyebutkan secara eksplisit."
+  },
+  {
+    "level_kesulitan": "SMA Kelas 10-12",
+    "pertanyaan": "Persamaan gerak lurus berubah beraturan adalah...",
+    "pilihan_jawaban": {
+      "A": "v = v0 + at",
+      "B": "s = v0t + 1/2 at^2",
+      "C": "a = (v^2 - v0^2)/2s",
+      "D": "semua di atas"
+    },
+    "jawaban_benar": "D",
+    "pembahasan": "Semua persamaan tersebut merupakan rumus dasar GLBB."
+  },
+  {
+    "level_kesulitan": "SMA Kelas 10-12",
+    "pertanyaan": "Turunan pertama dari f(x) = 3x^2 + 2x adalah...",
+    "pilihan_jawaban": {
+      "A": "6x + 2",
+      "B": "3x + 2",
+      "C": "6x",
+      "D": "2x"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Turunan dari 3x^2 adalah 6x dan turunan dari 2x adalah 2."
+  },
+  {
+    "level_kesulitan": "SMA Kelas 10-12",
+    "pertanyaan": "Ciri khas puisi modern adalah...",
+    "pilihan_jawaban": {
+      "A": "menggunakan bahasa formal",
+      "B": "menghindari metafora",
+      "C": "menggunakan bahasa sehari-hari",
+      "D": "memiliki meterik teratur"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Puisi modern cenderung menggunakan bahasa yang dekat dengan kehidupan sehari-hari."
+  }
+]
