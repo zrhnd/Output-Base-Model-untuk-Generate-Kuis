@@ -1,0 +1,122 @@
+[
+  {
+    "level_kesulitan": "SD Kelas 1-3",
+    "pertanyaan": "Berapa hasil dari 2 + 3?",
+    "pilihan_jawaban": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "2 + 3 berarti dua bilangan dijumlahkan, hasilnya adalah 5."
+  },
+  {
+    "level_kesulitan": "SD Kelas 1-3",
+    "pertanyaan": "Kata 'kambing' memiliki jumlah huruf...",
+    "pilihan_jawaban": {
+      "A": "5 huruf",
+      "B": "6 huruf",
+      "C": "7 huruf",
+      "D": "8 huruf"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Kata 'kambing' terdiri dari huruf K-A-M-B-I-N-G, total 6 huruf."
+  },
+  {
+    "level_kesulitan": "SD Kelas 4-6",
+    "pertanyaan": "Benda yang memiliki bentuk tetap dan volum tetap adalah...",
+    "pilihan_jawaban": {
+      "A": "Gas",
+      "B": "Cair",
+      "C": "Padat",
+      "D": "Semua di atas"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Benda padat memiliki bentuk dan volum yang tetap, sedangkan gas dan cair bersifat menyesuaikan wadah."
+  },
+  {
+    "level_kesulitan": "SD Kelas 4-6",
+    "pertanyaan": "Hasil dari 1/2 + 1/4 adalah...",
+    "pilihan_jawaban": {
+      "A": "1/6",
+      "B": "2/6",
+      "C": "3/6",
+      "D": "4/6"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "1/2 = 2/4, maka 2/4 + 1/4 = 3/4 yang disederhanakan menjadi 3/6."
+  },
+  {
+    "level_kesulitan": "SMP Kelas 7-9",
+    "pertanyaan": "Persamaan garis lurus yang melalui titik (2, 3) dan gradien 4 adalah...",
+    "pilihan_jawaban": {
+      "A": "y = 4x + 1",
+      "B": "y = 4x - 5",
+      "C": "y = 4x + 5",
+      "D": "y = 4x - 1"
+    },
+    "jawaban_benar": "D",
+    "pembahasan": "Menggunakan rumus y - y1 = m(x - x1), substitusi (2,3) dan m=4: y-3=4(x-2) → y=4x-8+3 → y=4x-5."
+  },
+  {
+    "level_kesulitan": "SMP Kelas 7-9",
+    "pertanyaan": "Jenis tumbuhan yang memiliki akar serabut adalah...",
+    "pilihan_jawaban": {
+      "A": "Bambu",
+      "B": "Kelapa",
+      "C": "Pohon mangga",
+      "D": "Kaktus"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Tumbuhan dengan akar serabut memiliki akar yang tumbuh ke segala arah, seperti pada tanaman bambu."
+  },
+  {
+    "level_kesulitan": "SMP Kelas 7-9",
+    "pertanyaan": "Kata 'kecil' dalam kalimat 'Anak itu kecil' berfungsi sebagai...",
+    "pilihan_jawaban": {
+      "A": "Kata benda",
+      "B": "Kata kerja",
+      "C": "Kata sifat",
+      "D": "Kata keterangan"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "'Kecil' menggambarkan sifat atau ciri dari subjek 'anak' dalam kalimat."
+  },
+  {
+    "level_kesulitan": "SMA Kelas 10-12",
+    "pertanyaan": "Reaksi kimia berikut yang menghasilkan gas oksigen adalah...",
+    "pilihan_jawaban": {
+      "A": "Pemanasan batu kapur",
+      "B": "Pembakaran hidrogen",
+      "C": "Reaksi asam-basa",
+      "D": "Elektrolisis air"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Batu kapur (CaCO3) terurai menjadi CaO dan CO2 saat dipanaskan, bukan oksigen. Reaksi yang menghasilkan O2 adalah dekomposisi air atau oksidasi logam."
+  },
+  {
+    "level_kesulitan": "SMA Kelas 10-12",
+    "pertanyaan": "Berdasarkan hukum kekekalan energi, energi mekanik di bawah ini yang paling besar adalah...",
+    "pilihan_jawaban": {
+      "A": "Benda 1 kg di ketinggian 10 m",
+      "B": "Benda 2 kg di ketinggian 5 m",
+      "C": "Benda 3 kg di ketinggian 3 m",
+      "D": "Benda 4 kg di ketinggian 2 m"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Energi potensial gravitasi (EP = mgh) terbesar adalah pada benda 1 kg di ketinggian 10 m (EP = 98 J)."
+  },
+  {
+    "level_kesulitan": "SMA Kelas 10-12",
+    "pertanyaan": "Dalam novel 'Laskar Pelangi', tokoh yang menjadi simbol perjuangan pendidikan adalah...",
+    "pilihan_jawaban": {
+      "A": "Tuti",
+      "B": "Laskar Pelangi",
+      "C": "Samosir",
+      "D": "Raden"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Laskar Pelangi mewakili kelompok anak-anak yang berjuang keras untuk mendapatkan pendidikan meski dalam kondisi sulit."
+  }
+]
