@@ -1,0 +1,122 @@
+[
+  {
+    "level_kesulitan": "SD Kelas 1-3",
+    "pertanyaan": "Bilangan bulat yang tepat di antara 10 dan 20 adalah:",
+    "pilihan_jawaban": {
+      "A": "15",
+      "B": "17",
+      "C": "18",
+      "D": "19"
+    },
+    "jawaban_benar": "D",
+    "pembahasan": "Bilangan bulat yang tepat di antara 10 dan 20 adalah 19, karena 19 lebih besar dari 17 dan 18, serta lebih kecil dari 20."
+  },
+  {
+    "level_kesulitan": "SD Kelas 1-3",
+    "pertanyaan": "Kalimat yang benar adalah:",
+    "pilihan_jawaban": {
+      "A": "Aku suka membaca buku.",
+      "B": "Buku itu indah sekali.",
+      "C": "Aku suka membaca buku itu.",
+      "D": "Aku membaca buku itu."
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Kalimat yang benar adalah 'Aku suka membaca buku.', karena kalimat tersebut sudah memiliki kata benda dan kata kerja yang tepat."
+  },
+  {
+    "level_kesulitan": "SD Kelas 4-6",
+    "pertanyaan": "Jenis tanaman yang dapat menghasilkan minyak kelapa adalah:",
+    "pilihan_jawaban": {
+      "A": "Pohon Pinus",
+      "B": "Pohon Kelapa",
+      "C": "Pohon Jati",
+      "D": "Pohon Cemara"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Jenis tanaman yang dapat menghasilkan minyak kelapa adalah Pohon Kelapa, karena Pohon Kelapa dapat menghasilkan buah kelapa yang berminyak."
+  },
+  {
+    "level_kesulitan": "SD Kelas 4-6",
+    "pertanyaan": "Pecahan yang benar dari 3/4 adalah:",
+    "pilihan_jawaban": {
+      "A": "3/2",
+      "B": "3/4",
+      "C": "4/3",
+      "D": "1/3"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Pecahan yang benar dari 3/4 adalah 3/4, karena 3/4 merupakan pecahan dari 3 bagian yang dipecahkan menjadi 4 bagian yang sama."
+  },
+  {
+    "level_kesulitan": "SMP Kelas 7-9",
+    "pertanyaan": "Kalimat yang benar tentang cara menulis sebuah puisi adalah:",
+    "pilihan_jawaban": {
+      "A": "Puisi dapat ditulis dengan menggunakan huruf besar.",
+      "B": "Puisi dapat ditulis dengan menggunakan kata-kata yang panjang.",
+      "C": "Puisi dapat ditulis dengan menggunakan rima dan meter.",
+      "D": "Puisi dapat ditulis dengan menggunakan bahasa yang sederhana."
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Kalimat yang benar tentang cara menulis sebuah puisi adalah 'Puisi dapat ditulis dengan menggunakan rima dan meter.', karena puisi biasanya menggunakan rima dan meter untuk memberikan efek yang lebih menarik."
+  },
+  {
+    "level_kesulitan": "SMP Kelas 7-9",
+    "pertanyaan": "Sebutkanlah suku bunga yang tepat dari suku bunga 12% dengan periode 1 tahun:",
+    "pilihan_jawaban": {
+      "A": "1%",
+      "B": "2%",
+      "C": "12%",
+      "D": "24%"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Suku bunga yang tepat dari suku bunga 12% dengan periode 1 tahun adalah 12%, karena suku bunga adalah persentase dari nilai yang ditemukan."
+  },
+  {
+    "level_kesulitan": "SMP Kelas 7-9",
+    "pertanyaan": "Kalimat yang benar tentang cara menulis sebuah paragraf adalah:",
+    "pilihan_jawaban": {
+      "A": "Paragraf dapat ditulis dengan menggunakan huruf besar.",
+      "B": "Paragraf dapat ditulis dengan menggunakan kata-kata yang panjang.",
+      "C": "Paragraf dapat ditulis dengan menggunakan kalimat yang panjang.",
+      "D": "Paragraf dapat ditulis dengan menggunakan kalimat yang pendek."
+    },
+    "jawaban_benar": "D",
+    "pembahasan": "Kalimat yang benar tentang cara menulis sebuah paragraf adalah 'Paragraf dapat ditulis dengan menggunakan kalimat yang pendek.', karena paragraf biasanya menggunakan kalimat yang pendek untuk memberikan gambaran yang lebih jelas."
+  },
+  {
+    "level_kesulitan": "SMA Kelas 10-12",
+    "pertanyaan": "Sebutkanlah contoh spesies hewan yang memiliki kemampuan berenang:",
+    "pilihan_jawaban": {
+      "A": "Burung eyang",
+      "B": "Buaya",
+      "C": "Kucing",
+      "D": "Anjing"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Contoh spesies hewan yang memiliki kemampuan berenang adalah Buaya, karena Buaya merupakan hewan yang dapat berenang dengan sangat baik."
+  },
+  {
+    "level_kesulitan": "SMA Kelas 10-12",
+    "pertanyaan": "Pecahan yang benar dari 1/2 adalah:",
+    "pilihan_jawaban": {
+      "A": "3/4",
+      "B": "1/2",
+      "C": "2/3",
+      "D": "1/3"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Pecahan yang benar dari 1/2 adalah 1/2, karena 1/2 merupakan pecahan dari 1 bagian yang dipecahkan menjadi 2 bagian yang sama."
+  },
+  {
+    "level_kesulitan": "SMA Kelas 10-12",
+    "pertanyaan": "Kalimat yang benar tentang cara menulis sebuah artikel adalah:",
+    "pilihan_jawaban": {
+      "A": "Artikel dapat ditulis dengan menggunakan huruf besar.",
+      "B": "Artikel dapat ditulis dengan menggunakan kata-kata yang panjang.",
+      "C": "Artikel dapat ditulis dengan menggunakan kalimat yang panjang.",
+      "D": "Artikel dapat ditulis dengan menggunakan kalimat yang pendek."
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Kalimat yang benar tentang cara menulis sebuah artikel adalah 'Artikel dapat ditulis dengan menggunakan kalimat yang panjang.', karena artikel biasanya menggunakan kalimat yang panjang untuk memberikan gambaran yang lebih jelas."
+  }
+]
