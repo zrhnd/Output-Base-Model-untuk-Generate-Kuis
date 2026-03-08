@@ -1,0 +1,122 @@
+[
+  {
+    "level_kesulitan": "SD Kelas 1-3",
+    "pertanyaan": "Sebuah buku memiliki 5 buku di dalamnya. Jika 2 buku diambil secara acak, berapa kemungkinan terambil 2 buku yang berwarna merah?",
+    "pilihan_jawaban": {
+      "A": "1/5",
+      "B": "1/10",
+      "C": "2/5",
+      "D": "1/2"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Karena ada 2 buku merah di antara 5 buku, maka kemungkinan terambil 2 buku yang berwarna merah adalah 2/5."
+  },
+  {
+    "level_kesulitan": "SD Kelas 1-3",
+    "pertanyaan": "Apalah makna dari kata 'surga'?",
+    "pilihan_jawaban": {
+      "A": "Tempat yang penuh dengan kebaikan",
+      "B": "Tempat yang berisi harta karun",
+      "C": "Tempat yang berisi kejahatan",
+      "D": "Tempat yang berisi kebenaran"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Makna dari kata 'surga' adalah tempat yang penuh dengan kebaikan dan kebijaksanaan."
+  },
+  {
+    "level_kesulitan": "SD Kelas 4-6",
+    "pertanyaan": "Apa yang terjadi pada suhu air ketika Anda meletakkan es di dalamnya?",
+    "pilihan_jawaban": {
+      "A": "Suhu air akan meningkat",
+      "B": "Suhu air akan tetap sama",
+      "C": "Suhu air akan menurun",
+      "D": "Suhu air akan meningkat dan menurun"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Ketika Anda meletakkan es di dalam air, maka suhu air akan menurun karena kalor yang dilepaskan oleh es akan menyebar ke sekitarnya."
+  },
+  {
+    "level_kesulitan": "SD Kelas 4-6",
+    "pertanyaan": "Sebuah bangun datar memiliki panjang 5 cm dan lebar 3 cm. Berapa luas bangun datar tersebut?",
+    "pilihan_jawaban": {
+      "A": 10 cm^2,
+      "B": 12 cm^2,
+      "C": 15 cm^2,
+      "D": 20 cm^2
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Luas bangun datar dapat dihitung dengan menggunakan rumus: luas = panjang x lebar. Dalam kasus ini, luas bangun datar adalah 5 cm x 3 cm = 15 cm^2."
+  },
+  {
+    "level_kesulitan": "SMP Kelas 7-9",
+    "pertanyaan": "Apa yang terjadi pada kecepatan sebuah benda yang jatuh bebas dalam medan gravitasi bumi?",
+    "pilihan_jawaban": {
+      "A": "Meningkat secara bertahap",
+      "B": "Tetap sama",
+      "C": "Menurun secara bertahap",
+      "D": "Meningkat secara tiba-tiba"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Kecepatan sebuah benda yang jatuh bebas dalam medan gravitasi bumi akan menurun secara bertahap karena adanya gesekan udara yang memperlambat gerakannya."
+  },
+  {
+    "level_kesulitan": "SMP Kelas 7-9",
+    "pertanyaan": "Sebuah sistem persamaan linear memiliki dua persamaan yang berbentuk: 2x + 3y = 5 dan x - 2y = -3. Berapa banyak solusi yang ada?",
+    "pilihan_jawaban": {
+      "A": "Satu",
+      "B": "Dua",
+      "C": "Tidak ada",
+      "D": "Banyak"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Persamaan linear memiliki satu solusi jika sistemnya terdefinisi, dan dalam kasus ini, sistem tersebut memiliki satu solusi karena tidak ada nilai x dan y yang memenuhi kedua persamaan."
+  },
+  {
+    "level_kesulitan": "SMP Kelas 7-9",
+    "pertanyaan": "Apa yang dimaksud dengan istilah 'kultur'?",
+    "pilihan_jawaban": {
+      "A": "Budaya dan adat istiadat suatu bangsa",
+      "B": "Bahasa dan penulisan suatu bangsa",
+      "C": "Pendidikan dan ilmu pengetahuan suatu bangsa",
+      "D": "Agama dan kepercayaan suatu bangsa"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Istilah 'kultur' merujuk pada budaya dan adat istiadat suatu bangsa, yang mencakup segala aspek kehidupan manusia dalam suatu masyarakat."
+  },
+  {
+    "level_kesulitan": "SMA Kelas 10-12",
+    "pertanyaan": "Apa yang terjadi pada sel-sel tanaman ketika terkena sinar UV?",
+    "pilihan_jawaban": {
+      "A": "Mengalami perubahan bentuk",
+      "B": "Mengalami perubahan warna",
+      "C": "Mengalami kerusakan DNA",
+      "D": "Mengalami peningkatan pertumbuhan"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Sinar UV dapat menyebabkan kerusakan DNA pada sel-sel tanaman, yang dapat mengarah pada perubahan genetik dan bahkan kematian sel."
+  },
+  {
+    "level_kesulitan": "SMA Kelas 10-12",
+    "pertanyaan": "Apa yang dimaksud dengan istilah 'derivatif'?",
+    "pilihan_jawaban": {
+      "A": "Derivatif merupakan hasil perubahan suatu fungsi",
+      "B": "Derivatif merupakan hasil perubahan suatu bentuk geometris",
+      "C": "Derivatif merupakan hasil perubahan suatu bilangan",
+      "D": "Derivatif merupakan hasil perubahan suatu bentuk kalimat"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Istilah 'derivatif' merujuk pada hasil perubahan suatu fungsi, yang dapat digunakan untuk menentukan kecepatan dan jarak yang ditempuh oleh suatu objek."
+  },
+  {
+    "level_kesulitan": "SMA Kelas 10-12",
+    "pertanyaan": "Apa yang dimaksud dengan istilah 'ekonomi hijau'?",
+    "pilihan_jawaban": {
+      "A": "Ekonimi hijau merupakan ekonomi yang berfokus pada penggunaan sumber daya alam",
+      "B": "Ekonimi hijau merupakan ekonomi yang berfokus pada penggunaan energi terbarukan",
+      "C": "Ekonimi hijau merupakan ekonomi yang berfokus pada penggunaan teknologi hijau",
+      "D": "Ekonimi hijau merupakan ekonomi yang berfokus pada penggunaan sumber daya alam dan energi terbarukan"
+    },
+    "jawaban_benar": "D",
+    "pembahasan": "Istilah 'ekonomi hijau' merujuk pada ekonomi yang berfokus pada penggunaan sumber daya alam dan energi terbarukan untuk mencapai pertumbuhan ekonomi yang lestari."
+  }
+]
